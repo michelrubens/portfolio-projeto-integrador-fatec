@@ -22,9 +22,9 @@ Trabalho de Graduação modelo Portfólio das Aprendizagens por Projetos Integra
 #### Contribuições Pessoais
 
 
-### 2. API2
+### 2. API2 - Carga de shapefile em banco geográfico
 
-- Parceiro Acadêmico: 
+- Parceiro Acadêmico: Visiona Tecnologia Espacial S.A.
 
 #### Tecnologias útilizadas
 
