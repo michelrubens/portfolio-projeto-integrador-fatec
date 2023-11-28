@@ -7,8 +7,9 @@ Trabalho de Graduação modelo Portfólio das Aprendizagens por Projetos Integra
 - [Sobre mim](#sobre-mim)
 - [Meus projetos](#meus-projetos)
 
-
 ## Sobre mim
+
+![Michel Rubens Ferreira da Silva](https://avatars.githubusercontent.com/u/61568495?v=4)
 
 Olá! Sou Michel Rubens Ferreira da Silva, um estudante entusiasmado de Banco de Dados na FATEC São José dos Campos. Estou atualmente cursando o 5º semestre e minha jornada acadêmica tem sido uma oportunidade incrível para imersão em projetos desafiadores e colaborativos.
 
@@ -43,7 +44,7 @@ O projeto consistia em criar um aplicativo que gerenciasse os horários e as rot
 
 - Criação das telas e documentação.
 
-### Projeto Integra CAR (Cadastro Ambiental Rural) - Carga de shapefile em banco geográfico
+### 2. Integra CAR (Cadastro Ambiental Rural) - Carga de shapefile em banco geográfico
 
 - Parceiro Acadêmico: Visiona Tecnologia Espacial S.A.
 
@@ -62,17 +63,40 @@ O sistema consistia em uma ferramenta de leitura de dados baixados de cada cidad
 
 - Parceiro Acadêmico: IACIT Soluções Tecnológicas S.A.
 
+Criação de um sistema web para armazenamento de dados do INMET em banco de dados da empresa com visualização de dados e geração de relatórios customizados.
+
 #### Tecnologias útilizadas
 
+- PostgreSQL
+- HTML5, JavaScript e CSS3
+- Java
+- Spring, Springboot
+- Hibernate
+- Apache Toncat
 
 #### Contribuições Pessoais
 
+- Desenvolvimento do front end como um todo.
 
 ### 4. Aircraft Configuration Control (ACC)
 
 - Parceiro Acadêmico: EMBRAER S.A.
 
+O projeto visava desenvolver um sistema de Controle de Configuração de Aeronaves (ACC) para a Embraer, empresa líder em aviação. A ideia era que ela pudesse gerenciar e controlar as configurações das aeronaves, garantindo eficiência na produção e permitindo aos pilotos verificar as configurações, comparar itens e identificar Limitações de Continuação (FOLs) para garantir a qualidade do despacho.
+
 #### Tecnologias útilizadas
 
+- Vite + Vue 3
+- TypeScript
+- HTML5, JavaScript e CSS3
+- Pinia, Axios e Json
+- Java
+- Spring, Springboot
+- Maven
+- Hibernate
+- Lombok
+- Oracle Cloud
 
 #### Contribuições Pessoais
+
+- Desenvolvimento do front end como um todo.
