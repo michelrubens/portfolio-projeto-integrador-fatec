@@ -35,7 +35,7 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 
 O projeto consistia em criar um aplicativo que gerenciasse os horários e as rotas das viagens e fizesse a integração entre os motoristas e seus passageiros.
 
-#### Tecnologias útilizadas
+#### Tecnologias utilizadas
 
 - [App Inventor 2](https://appinventor.mit.edu/)
 - [Firebase](https://firebase.google.com/?hl=pt)
@@ -54,7 +54,7 @@ O projeto consistia em criar um aplicativo que gerenciasse os horários e as rot
 
 O sistema consistia em uma ferramenta de leitura de dados baixados de cada cidade/estado, agrupando e organizando esses dados dentro de um único banco de dados para uso da empresa.
 
-#### Tecnologias útilizadas
+#### Tecnologias utilizadas
 
 - [C#](https://dotnet.microsoft.com/pt-br/languages/csharp)
 - [Microsoft SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
@@ -71,7 +71,7 @@ O sistema consistia em uma ferramenta de leitura de dados baixados de cada cidad
 
 Criação de um sistema web para armazenamento de dados do INMET em banco de dados da empresa com visualização de dados e geração de relatórios customizados.
 
-#### Tecnologias útilizadas
+#### Tecnologias utilizadas
 
 - [PostgreSQL](https://www.postgresql.org/)
 - [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/) e [CSS3](http://www.w3.org/TR/css3-roadmap/)
@@ -92,7 +92,7 @@ Criação de um sistema web para armazenamento de dados do INMET em banco de dad
 
 O projeto visava desenvolver um sistema de Controle de Configuração de Aeronaves (ACC) para a Embraer, empresa líder em aviação. A ideia era que ela pudesse gerenciar e controlar as configurações das aeronaves, garantindo eficiência na produção e permitindo aos pilotos verificar as configurações, comparar itens e identificar Limitações de Continuação (FOLs) para garantir a qualidade do despacho.
 
-#### Tecnologias útilizadas
+#### Tecnologias utilizadas
 
 - [Vite](https://vitejs.dev/guide/) + [Vue 3](https://vuejs.org/guide/quick-start)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -107,5 +107,10 @@ O projeto visava desenvolver um sistema de Controle de Configuração de Aeronav
 
 #### Contribuições Pessoais
 
+- Criação de projeto Vue, utilizando o Vite.
+- Criação de páginas e componentes Vue.
+- Utilização do Vue Router para controle de URI.
+- Autenticação com token.
+- Gerenciamento de estado.
 - Desenvolvimento do front end como um todo.
 - Atuação como Scrum Master.
