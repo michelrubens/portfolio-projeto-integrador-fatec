@@ -82,6 +82,8 @@ Criação de um sistema web para armazenamento de dados do INMET em banco de dad
 
 #### Contribuições Pessoais
 
+- Utilização de API externa.
+- Criação de gráficos.
 - Desenvolvimento do front end como um todo.
 
 ### 4. Aircraft Configuration Control (ACC)
