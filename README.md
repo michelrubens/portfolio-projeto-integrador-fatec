@@ -108,3 +108,4 @@ O projeto visava desenvolver um sistema de Controle de Configuração de Aeronav
 #### Contribuições Pessoais
 
 - Desenvolvimento do front end como um todo.
+- Atuação como Scrum Master.
