@@ -37,10 +37,10 @@ O projeto consistia em criar um aplicativo que gerenciasse os horários e as rot
 
 #### Tecnologias útilizadas
 
-- App Inventor 2
-- Firebase
-- Google Planilhas
-- C#
+- [App Inventor 2](https://appinventor.mit.edu/)
+- [Firebase](https://firebase.google.com/?hl=pt)
+- [Planilhas Google](https://docs.google.com/spreadsheets/create?hl=pt-br)
+- [C#](https://dotnet.microsoft.com/pt-br/languages/csharp)
 
 #### Contribuições Pessoais
 
@@ -56,8 +56,8 @@ O sistema consistia em uma ferramenta de leitura de dados baixados de cada cidad
 
 #### Tecnologias útilizadas
 
-- C#
-- MySQL Server
+- [C#](https://dotnet.microsoft.com/pt-br/languages/csharp)
+- [Microsoft SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
 #### Contribuições Pessoais
 
