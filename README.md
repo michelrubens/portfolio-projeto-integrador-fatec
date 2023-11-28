@@ -29,6 +29,8 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 
 ### 1. Vandroid - Aplicativo de vans escolares
 
+![image](https://github.com/michelrubens/portfolio-projeto-integrador-fatec/assets/61568495/20b8eb0c-c429-428c-99be-e46d6703cc41)
+
 - Parceiro Acadêmico: Faculdade de Tecnologia de São José dos Campos
 
 O projeto consistia em criar um aplicativo que gerenciasse os horários e as rotas das viagens e fizesse a integração entre os motoristas e seus passageiros.
@@ -46,6 +48,8 @@ O projeto consistia em criar um aplicativo que gerenciasse os horários e as rot
 
 ### 2. Integra CAR (Cadastro Ambiental Rural) - Carga de shapefile em banco geográfico
 
+![image](https://github.com/michelrubens/portfolio-projeto-integrador-fatec/assets/61568495/2aa4382d-f241-4051-b038-f59dd1400884)
+
 - Parceiro Acadêmico: Visiona Tecnologia Espacial S.A.
 
 O sistema consistia em uma ferramenta de leitura de dados baixados de cada cidade/estado, agrupando e organizando esses dados dentro de um único banco de dados para uso da empresa.
@@ -61,18 +65,20 @@ O sistema consistia em uma ferramenta de leitura de dados baixados de cada cidad
 
 ### 3. Sistema web para armazenamento de dados metereológicos
 
+![image](https://github.com/michelrubens/portfolio-projeto-integrador-fatec/assets/61568495/9966877c-5ea4-4ed1-8fcb-d59d4acb6e7b)
+
 - Parceiro Acadêmico: IACIT Soluções Tecnológicas S.A.
 
 Criação de um sistema web para armazenamento de dados do INMET em banco de dados da empresa com visualização de dados e geração de relatórios customizados.
 
 #### Tecnologias útilizadas
 
-- PostgreSQL
-- HTML5, JavaScript e CSS3
-- Java
-- Spring, Springboot
-- Hibernate
-- Apache Toncat
+- [PostgreSQL](https://www.postgresql.org/)
+- [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/) e [CSS3](http://www.w3.org/TR/css3-roadmap/)
+- [Java](https://www.java.com/pt-BR/)
+- [Spring](https://spring.io/), [Springboot](https://spring.io/projects/spring-boot)
+- [Hibernate](https://hibernate.org/)
+- [Apache Tomcat](https://tomcat.apache.org/)
 
 #### Contribuições Pessoais
 
@@ -80,22 +86,24 @@ Criação de um sistema web para armazenamento de dados do INMET em banco de dad
 
 ### 4. Aircraft Configuration Control (ACC)
 
+![image](https://github.com/michelrubens/portfolio-projeto-integrador-fatec/assets/61568495/e5771283-fe00-4b06-94d4-1b48f4ca3ddb)
+
 - Parceiro Acadêmico: EMBRAER S.A.
 
 O projeto visava desenvolver um sistema de Controle de Configuração de Aeronaves (ACC) para a Embraer, empresa líder em aviação. A ideia era que ela pudesse gerenciar e controlar as configurações das aeronaves, garantindo eficiência na produção e permitindo aos pilotos verificar as configurações, comparar itens e identificar Limitações de Continuação (FOLs) para garantir a qualidade do despacho.
 
 #### Tecnologias útilizadas
 
-- Vite + Vue 3
-- TypeScript
-- HTML5, JavaScript e CSS3
-- Pinia, Axios e Json
-- Java
-- Spring, Springboot
-- Maven
-- Hibernate
-- Lombok
-- Oracle Cloud
+- [Vite](https://vitejs.dev/guide/) + [Vue 3](https://vuejs.org/guide/quick-start)
+- [TypeScript](https://www.typescriptlang.org/)
+- [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/) e [CSS3](http://www.w3.org/TR/css3-roadmap/)
+- [Pinia](https://pinia.vuejs.org/), [Axios](https://axios-http.com/) e [JSON](https://www.json.org/)
+- [Java](https://www.java.com/pt-BR/)
+- [Spring](https://spring.io/), [Springboot](https://spring.io/projects/spring-boot)
+- [Apache Maven](https://maven.apache.org/)
+- [Hibernate](https://hibernate.org/)
+- [Lombok](https://projectlombok.org/)
+- [Oracle Cloud](https://www.oracle.com/br/cloud/)
 
 #### Contribuições Pessoais
 
