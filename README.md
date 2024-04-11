@@ -1,6 +1,6 @@
 # Portfólio - Michel Rubens Ferreira da Silva
 
-Trabalho de Graduação modelo Portfólio das Aprendizagens por Projetos Integrados (APIs) da Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.
+Trabalho de Graduação modelo Portfólio das Aprendizagens por Projetos Integrados (APIs) da Faculdade de Tecnologia de São José dos Campos (FATEC Prof. Jessen Vidal), como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.
 
 ## Sumário
 
@@ -11,7 +11,7 @@ Trabalho de Graduação modelo Portfólio das Aprendizagens por Projetos Integra
 
 ![Michel Rubens Ferreira da Silva](https://avatars.githubusercontent.com/u/61568495?v=4)
 
-Olá! Sou Michel Rubens Ferreira da Silva, um estudante entusiasmado de Banco de Dados na FATEC São José dos Campos. Estou atualmente cursando o 5º semestre e minha jornada acadêmica tem sido uma oportunidade incrível para imersão em projetos desafiadores e colaborativos.
+Olá! Sou Michel Rubens Ferreira da Silva, um estudante entusiasmado de Banco de Dados na FATEC São José dos Campos. Estou atualmente cursando o 6º semestre e minha jornada acadêmica tem sido uma oportunidade incrível para imersão em projetos desafiadores e colaborativos.
 
 Durante minha trajetória na FATEC, tive a chance de participar ativamente de diversos projetos integradores em parceria com empresas renomadas. Essas experiências me proporcionaram valioso contato com clientes reais e me desafiaram a resolver problemas enfrentados por empresas de diferentes segmentos.
 
