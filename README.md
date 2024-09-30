@@ -5,7 +5,7 @@ Trabalho de Graduação modelo Portfólio das Aprendizagens por Projetos Integra
 ## Sumário
 
 - [Sobre mim](#sobre-mim)
-- [Meus projetos](#meus-projetos)
+- [Projetos](#projetos)
 
 ## Sobre mim
 
@@ -21,23 +21,26 @@ Estou determinado a me tornar um profissional completo e atualizado, acompanhand
 
 Durante meu estágio no Departamento de Tecnologia da Informação (DTI) da Prefeitura de Jacareí, trabalhei com o GLPI, um sistema de gerenciamento de serviços de TI de código aberto. Nessa posição, meu foco foi estudar e tentar atualizar a versão utilizada pelo DTI. O GLPI é utilizado para controlar incidentes, solicitações de serviço e inventário de ativos de TI em organizações.
 
-Atualmente, como Supervisor de Gestão do SUAS, na Secretaria de Assistência Social, meu trabalho está centrado na gestão do Sistema de Gerenciamento de Cestas Básicas, uma ferramenta essencial para o controle e distribuição desses recursos para a comunidade. Desempenho também um papel fundamental na elaboração de gráficos e planilhas dinâmicas, que tem o intuito de otimizar processos, organizar informações detalhadas e gerar insights valiosos para aprimorar as atividades e a eficácia das operações no setor de Assistência Social.
+Já trabalhei como Supervisor de Gestão do SUAS, na Secretaria de Assistência Social, onde meu trabalho estava centrado na gestão do Sistema de Gerenciamento de Cestas Básicas, uma ferramenta essencial para o controle e distribuição desses recursos para a comunidade. Desempenhei também um papel fundamental na elaboração de gráficos e planilhas dinâmicas, que tem o intuito de otimizar processos, organizar informações detalhadas e gerar insights valiosos para aprimorar as atividades e a eficácia das operações no setor de Assistência Social.
 
 Estou animado para continuar crescendo academicamente e profissionalmente, enfrentando novos desafios e contribuindo significativamente para a área de Banco de Dados e Desenvolvimento de Software.
 
-## Meus projetos
+## Projetos
 
 ### 1. Vandroid - Aplicativo de vans escolares
 
+[Repositório](https://gitlab.com/projeto-integrador-bd/projeto-integrador)
+
 ![image](https://github.com/michelrubens/portfolio-projeto-integrador-fatec/assets/61568495/20b8eb0c-c429-428c-99be-e46d6703cc41)
 
-- Parceiro Acadêmico: Faculdade de Tecnologia de São José dos Campos
+- Parceiro Acadêmico: FATEC São José dos Campos
 
 O projeto consistia em criar um aplicativo que gerenciasse os horários e as rotas das viagens e fizesse a integração entre os motoristas e seus passageiros.
+O Vandroid visava promover uma integração entre motoristas de vans e seus passageiros, contando com a facilidade de acesso aos aparelhos celulares, auxiliando o motorista na administração dos seus horários e rotas, e o passageiro mostrando os horários de embarque e de desembarque, com maior aproveitamento e organização do tempo.
 
 #### Tecnologias utilizadas
 
-- [App Inventor 2](https://appinventor.mit.edu/)
+- [MIT App Inventor 2](https://appinventor.mit.edu/)
 - [Firebase](https://firebase.google.com/?hl=pt)
 - [Planilhas Google](https://docs.google.com/spreadsheets/create?hl=pt-br)
 - [C#](https://dotnet.microsoft.com/pt-br/languages/csharp)
@@ -45,7 +48,11 @@ O projeto consistia em criar um aplicativo que gerenciasse os horários e as rot
 #### Contribuições Pessoais
 
 - Criação das telas e documentação.
+- Criação de alguns blocos de navegação.
+  
+  ![image](https://github.com/user-attachments/assets/06915892-616c-458d-89f4-83c417404191)
 
+---
 ### 2. Integra CAR (Cadastro Ambiental Rural) - Carga de shapefile em banco geográfico
 
 ![image](https://github.com/michelrubens/portfolio-projeto-integrador-fatec/assets/61568495/2aa4382d-f241-4051-b038-f59dd1400884)
@@ -63,6 +70,7 @@ O sistema consistia em uma ferramenta de leitura de dados baixados de cada cidad
 
 - Criação das telas e documentação.
 
+---
 ### 3. Sistema web para armazenamento de dados metereológicos
 
 ![image](https://github.com/michelrubens/portfolio-projeto-integrador-fatec/assets/61568495/9966877c-5ea4-4ed1-8fcb-d59d4acb6e7b)
@@ -86,6 +94,7 @@ Criação de um sistema web para armazenamento de dados do INMET em banco de dad
 - Criação de gráficos.
 - Desenvolvimento do front end como um todo.
 
+---
 ### 4. Aircraft Configuration Control (ACC)
 
 ![image](https://github.com/michelrubens/portfolio-projeto-integrador-fatec/assets/61568495/e5771283-fe00-4b06-94d4-1b48f4ca3ddb)
