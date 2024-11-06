@@ -33,7 +33,9 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 
 ![image](https://github.com/michelrubens/portfolio-projeto-integrador-fatec/assets/61568495/20b8eb0c-c429-428c-99be-e46d6703cc41)
 
-- Parceiro Acadêmico: FATEC São José dos Campos
+#### Parceiro Acadêmico
+
+- [Faculdade de Tecnologia de São José dos Campos (Fatec-SJC)](https://sjc.fatec.sp.gov.br/) - Uma renomada instituição de ensino superior tecnológico, referência na formação de profissionais qualificados para o mercado de trabalho.
 
 O projeto consistia em criar um aplicativo que gerenciasse os horários e as rotas das viagens e fizesse a integração entre os motoristas e seus passageiros.
 O Vandroid visava promover uma integração entre motoristas de vans e seus passageiros, contando com a facilidade de acesso aos aparelhos celulares, auxiliando o motorista na administração dos seus horários e rotas, e o passageiro mostrando os horários de embarque e de desembarque, com maior aproveitamento e organização do tempo.
@@ -57,7 +59,9 @@ O Vandroid visava promover uma integração entre motoristas de vans e seus pass
 
 ![image](https://github.com/michelrubens/portfolio-projeto-integrador-fatec/assets/61568495/2aa4382d-f241-4051-b038-f59dd1400884)
 
-- Parceiro Acadêmico: Visiona Tecnologia Espacial S.A.
+#### Parceiro Acadêmico
+
+- [Visiona Tecnologia Espacial S.A.](https://visionaespacial.com/) - Líder na integração de sistemas espaciais no Brasil e uma joint-venture entre a Embraer Defesa & Segurança e a Telebras, a Visiona opera em um setor de alta complexidade tecnológica.
 
 O sistema consistia em uma ferramenta de leitura de dados baixados de cada cidade/estado, agrupando e organizando esses dados dentro de um único banco de dados para uso da empresa.
 
@@ -75,9 +79,17 @@ O sistema consistia em uma ferramenta de leitura de dados baixados de cada cidad
 
 ![image](https://github.com/michelrubens/portfolio-projeto-integrador-fatec/assets/61568495/9966877c-5ea4-4ed1-8fcb-d59d4acb6e7b)
 
-- Parceiro Acadêmico: IACIT Soluções Tecnológicas S.A.
+#### Parceiro Acadêmico
 
-Criação de um sistema web para armazenamento de dados do INMET em banco de dados da empresa com visualização de dados e geração de relatórios customizados.
+- [IACIT Soluções Tecnológicas S.A.](https://www.iacit.com.br/) - Uma empresa brasileira com 38 anos de experiência na fabricação de equipamentos para o segmento de navegação aérea. O seu portfólio abrange as áreas de Meteorologia Radar, CNS/ATM, Defesa e Segurança Pública, Telemetria e Tecnologias da Informação, Comunicação, Automação e Controle.
+
+#### Problema e Solução
+
+- Empresas que dependem de dados meteorológicos para suas operações frequentemente enfrentam desafios na gestão e análise dessas informações. A obtenção de dados do INMET, por exemplo, envolve processos manuais e a necessidade de integrar informações de diversas fontes. A falta de uma solução centralizada para armazenamento, visualização e análise desses dados dificulta a tomada de decisões estratégicas e a otimização de processos. Desenvolvemos um sistema web que centraliza e organiza os dados meteorológicos do INMET em um banco de dados corporativo. Essa solução permite:
+
+  - **Consolidação de dados**: Agregação de informações provenientes de diversas fontes, incluindo o INMET, em um único repositório.
+  - **Visualização personalizada**: Criação de dashboards e relatórios customizados para atender às necessidades específicas de cada usuário.
+  - **Facilidade de acesso**: Disponibilização dos dados de forma rápida e intuitiva através de uma interface web, eliminando a necessidade de consultas manuais.
 
 #### Tecnologias utilizadas
 
@@ -99,9 +111,13 @@ Criação de um sistema web para armazenamento de dados do INMET em banco de dad
 
 ![image](https://github.com/michelrubens/portfolio-projeto-integrador-fatec/assets/61568495/e5771283-fe00-4b06-94d4-1b48f4ca3ddb)
 
-- Parceiro Acadêmico: EMBRAER S.A.
+#### Parceiro Acadêmico
 
-O projeto visava desenvolver um sistema de Controle de Configuração de Aeronaves (ACC) para a Embraer, empresa líder em aviação. A ideia era que ela pudesse gerenciar e controlar as configurações das aeronaves, garantindo eficiência na produção e permitindo aos pilotos verificar as configurações, comparar itens e identificar Limitações de Continuação (FOLs) para garantir a qualidade do despacho.
+- [Embraer S.A.](https://embraer.com/br/pt) - Líder mundial na fabricação de jatos comerciais de até 130 assentos, a Embraer é sinônimo de inovação e excelência na indústria aeronáutica.
+
+#### Problema e Solução
+
+- A complexidade na gestão das configurações de aeronaves representa um desafio significativo para a indústria aeronáutica. A Embraer, líder mundial em aviação, buscava uma solução para otimizar esse processo. Desenvolvemos então um Sistema de Controle de Configuração de Aeronaves (ACC) customizado para a Embraer, com foco na experiência do piloto. Essa ferramenta permite aos pilotos verificar de forma rápida e precisa as configurações específicas de cada aeronave antes de cada voo. Através de uma interface intuitiva, os pilotos podem comparar itens, identificar Limitações de Continuação (FOLs) e garantir que a aeronave esteja em perfeitas condições de voo, contribuindo diretamente para a segurança e eficiência das operações.
 
 #### Tecnologias utilizadas
 
@@ -125,3 +141,36 @@ O projeto visava desenvolver um sistema de Controle de Configuração de Aeronav
 - Gerenciamento de estado.
 - Desenvolvimento do front end como um todo.
 - Atuação como Scrum Master.
+
+---
+### 5. HEXtaurant - Plataforma online para gerenciamento de operações de restaurante
+
+![image](https://github.com/GroupHextech/HEXTECH-API5sem/raw/main/doc/Mockup/Project%20in%20Operation/ProjectOperationSprint4.gif)
+
+#### Parceiro Acadêmico
+
+- [Oracle Corporation](https://www.oracle.com/br/) - Líder global em soluções de banco de dados e nuvem, a Oracle oferece tecnologias inovadoras para empresas de todos os portes.
+
+#### Problema e Solução
+
+- Restaurantes enfrentam diversos desafios no dia a dia, como gestão de estoque, controle de pedidos e gerenciamento de equipe. Para solucionar essas questões e melhorar a eficiência operacional de restaurantes, desenvolvemos uma plataforma web para auxiliar restaurantes na gestão de suas operações. A aplicação oferece funcionalidades como:
+  
+  - Dashboards personalizados para visualizar métricas relevantes.
+  - Relatórios detalhados para análise de desempenho.
+  - Módulos de gestão de funcionários, fornecedores e estoque.
+
+#### Tecnologias Utilizadas
+
+- [Vite](https://vitejs.dev/guide/) + [Vue 3](https://vuejs.org/guide/quick-start)
+- [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/) e [CSS3](http://www.w3.org/TR/css3-roadmap/)
+- [Java](https://www.java.com/pt-BR/)
+- [Oracle Cloud](https://www.oracle.com/br/cloud/)
+- [MySQL](https://www.mysql.com/)
+- [Microsoft Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
+
+#### Contribuições Pessoais
+
+- Criação de projeto Vue, utilizando o Vite.
+- Criação de páginas e componentes Vue.
+- Utilização do Vue Router para controle de URI.
+- Atuação como Product Owner.
