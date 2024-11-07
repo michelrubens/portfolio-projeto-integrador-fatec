@@ -37,8 +37,19 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 
 - [Faculdade de Tecnologia de São José dos Campos (Fatec-SJC)](https://sjc.fatec.sp.gov.br/) - Uma renomada instituição de ensino superior tecnológico, referência na formação de profissionais qualificados para o mercado de trabalho.
 
-O projeto consistia em criar um aplicativo que gerenciasse os horários e as rotas das viagens e fizesse a integração entre os motoristas e seus passageiros.
-O Vandroid visava promover uma integração entre motoristas de vans e seus passageiros, contando com a facilidade de acesso aos aparelhos celulares, auxiliando o motorista na administração dos seus horários e rotas, e o passageiro mostrando os horários de embarque e de desembarque, com maior aproveitamento e organização do tempo.
+#### Problema e Solução
+
+- O transporte escolar tradicionalmente enfrenta desafios relacionados à organização de horários, comunicação entre motoristas e passageiros, e acompanhamento das rotas. A falta de uma ferramenta digital para gerenciar essas informações resulta em:
+
+  - Atrasos e imprevistos: Dificuldade em manter horários precisos e em comunicar alterações aos passageiros.
+  - Falta de transparência: Alunos não possuem informações atualizadas sobre a localização das vans e os horários de chegada e partida.
+  - Dificuldade na gestão: Motoristas enfrentam dificuldades para gerenciar suas rotas e acompanhar a lista de passageiros.
+  - Falta de eficiência: Rotas não otimizadas e falta de comunicação podem gerar custos adicionais e insatisfação dos clientes.
+
+- O aplicativo Vandroid foi desenvolvido para solucionar esses problemas, oferecendo:
+
+  - Gerenciamento de horários e rotas: Criação e gerenciamento de horários e rotas de forma simples e intuitiva.
+  - Acompanhamento em tempo real: Localização das vans e previsão de chegada em cada parada.
 
 #### Tecnologias utilizadas
 
@@ -63,7 +74,16 @@ O Vandroid visava promover uma integração entre motoristas de vans e seus pass
 
 - [Visiona Tecnologia Espacial S.A.](https://visionaespacial.com/) - Líder na integração de sistemas espaciais no Brasil e uma joint-venture entre a Embraer Defesa & Segurança e a Telebras, a Visiona opera em um setor de alta complexidade tecnológica.
 
-O sistema consistia em uma ferramenta de leitura de dados baixados de cada cidade/estado, agrupando e organizando esses dados dentro de um único banco de dados para uso da empresa.
+#### Problema e Solução
+
+- Empresas que trabalham com dados geográficos relacionados ao Cadastro Ambiental Rural (CAR) frequentemente se deparam com o desafio de gerenciar uma grande quantidade de informações espaciais dispersas em diversos arquivos shapefile. Cada município ou estado possui seus próprios formatos e estruturas de dados, dificultando a comparação, análise e integração dessas informações. Além disso, a falta de um sistema centralizado para armazenar e visualizar esses dados impacta negativamente a eficiência dos processos de análise e tomada de decisão.
+
+- O sistema desenvolvido visa solucionar essa problemática ao:
+
+  - **Centralizar os dados**: Consolidar os dados espaciais provenientes de diferentes fontes em um único banco de dados geográfico, eliminando a necessidade de trabalhar com diversos arquivos isolados.
+  - **Padronizar a estrutura dos dados**: Garantir a uniformidade dos dados, facilitando a análise e a comparação entre diferentes regiões.
+  - **Facilitar a visualização**: Proporcionar ferramentas para a visualização espacial dos dados, permitindo a identificação de padrões e tendências.
+  - **Agilizar a análise**: Oferecer funcionalidades para a realização de consultas e análises espaciais, otimizando os processos de tomada de decisão.
 
 #### Tecnologias utilizadas
 
