@@ -6,6 +6,11 @@ Trabalho de Graduação modelo Portfólio das Aprendizagens por Projetos Integra
 
 - [Sobre mim](#sobre-mim)
 - [Projetos](#projetos)
+  - [1. Vandroid - Aplicativo de vans escolares](#1-vandroid---aplicativo-de-vans-escolares)
+  - [2. Integra CAR (Cadastro Ambiental Rural) - Carga de shapefile em banco geográfico](#2-integra-car-cadastro-ambiental-rural---carga-de-shapefile-em-banco-geográfico)
+  - [3. Sistema web para armazenamento de dados metereológicos](#3-sistema-web-para-armazenamento-de-dados-metereológicos)
+  - [4. Aircraft Configuration Control (ACC)](#4-aircraft-configuration-control-acc)
+  - [5. HEXtaurant - Plataforma online para gerenciamento de operações de restaurante](#5-hextaurant---plataforma-online-para-gerenciamento-de-operações-de-restaurante)
 
 ## Sobre mim
 
@@ -51,19 +56,26 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
   - Gerenciamento de horários e rotas: Criação e gerenciamento de horários e rotas de forma simples e intuitiva.
   - Acompanhamento em tempo real: Localização das vans e previsão de chegada em cada parada.
 
-#### Tecnologias utilizadas
+<!-- #### Tecnologias utilizadas
 
 - [MIT App Inventor 2](https://appinventor.mit.edu/)
 - [Firebase](https://firebase.google.com/?hl=pt)
 - [Planilhas Google](https://docs.google.com/spreadsheets/create?hl=pt-br)
-- [C#](https://dotnet.microsoft.com/pt-br/languages/csharp)
+- [C#](https://dotnet.microsoft.com/pt-br/languages/csharp) -->
+
+#### Hard skills
+
+- [MIT App Inventor 2](https://appinventor.mit.edu/), [Firebase](https://firebase.google.com/?hl=pt), [Planilhas Google](https://docs.google.com/spreadsheets/create?hl=pt-br), [C#](https://dotnet.microsoft.com/pt-br/languages/csharp).
+
+#### Soft skills
+
+- Resolução de problemas, criatividade, atenção aos detalhes.
 
 #### Contribuições Pessoais
 
-- Criação das telas e documentação.
-- Criação de alguns blocos de navegação.
+- Desenvolvi as telas e a documentação do aplicativo Vandroid, utilizando o MIT App Inventor 2. Minha atenção aos detalhes garantiu que a interface do usuário fosse intuitiva e fácil de usar, facilitando a vida dos motoristas e dos alunos.
   
-  ![image](https://github.com/user-attachments/assets/06915892-616c-458d-89f4-83c417404191)
+![image](https://github.com/user-attachments/assets/06915892-616c-458d-89f4-83c417404191)
 
 ---
 ### 2. Integra CAR (Cadastro Ambiental Rural) - Carga de shapefile em banco geográfico
@@ -85,14 +97,22 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
   - **Facilitar a visualização**: Proporcionar ferramentas para a visualização espacial dos dados, permitindo a identificação de padrões e tendências.
   - **Agilizar a análise**: Oferecer funcionalidades para a realização de consultas e análises espaciais, otimizando os processos de tomada de decisão.
 
-#### Tecnologias utilizadas
+<!-- #### Tecnologias utilizadas
 
 - [C#](https://dotnet.microsoft.com/pt-br/languages/csharp)
-- [Microsoft SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+- [Microsoft SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) -->
+
+#### Hard skills
+
+- [C#](https://dotnet.microsoft.com/pt-br/languages/csharp), [Microsoft SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads).
+
+#### Soft skills
+
+- Análise de dados, organização, atenção aos detalhes.
 
 #### Contribuições Pessoais
-
-- Criação das telas e documentação.
+ 
+- Fui responsável pela criação das telas e da documentação do sistema de integração do CAR.
 
 ---
 ### 3. Sistema web para armazenamento de dados metereológicos
@@ -111,20 +131,26 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
   - **Visualização personalizada**: Criação de dashboards e relatórios customizados para atender às necessidades específicas de cada usuário.
   - **Facilidade de acesso**: Disponibilização dos dados de forma rápida e intuitiva através de uma interface web, eliminando a necessidade de consultas manuais.
 
-#### Tecnologias utilizadas
+<!-- #### Tecnologias utilizadas
 
 - [PostgreSQL](https://www.postgresql.org/)
 - [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/) e [CSS3](http://www.w3.org/TR/css3-roadmap/)
 - [Java](https://www.java.com/pt-BR/)
 - [Spring](https://spring.io/), [Springboot](https://spring.io/projects/spring-boot)
 - [Hibernate](https://hibernate.org/)
-- [Apache Tomcat](https://tomcat.apache.org/)
+- [Apache Tomcat](https://tomcat.apache.org/) -->
 
-#### Contribuições Pessoais
+#### Hard skills
 
-- Utilização de API externa.
-- Criação de gráficos.
-- Desenvolvimento do front end como um todo.
+- [PostgreSQL](https://www.postgresql.org/), [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/), [CSS3](http://www.w3.org/TR/css3-roadmap/), [Java](https://www.java.com/pt-BR/), [Spring](https://spring.io/), [Spring Boot](https://spring.io/projects/spring-boot), [Hibernate](https://hibernate.org/), [Apache Tomcat](https://tomcat.apache.org/).
+
+#### Soft skills
+
+- Desenvolvimento full-stack, trabalho em equipe, adaptabilidade.
+
+#### Contribuições Pessoais 
+
+- Desenvolvi o front-end do sistema, utilizando HTML5, JavaScript e CSS3 para criar uma interface intuitiva e responsiva. Além disso, fui responsável pela integração com a API do INMET e pela criação de gráficos personalizados para a visualização dos dados.
 
 ---
 ### 4. Aircraft Configuration Control (ACC)
@@ -139,7 +165,7 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 
 - A complexidade na gestão das configurações de aeronaves representa um desafio significativo para a indústria aeronáutica. A Embraer, líder mundial em aviação, buscava uma solução para otimizar esse processo. Desenvolvemos então um Sistema de Controle de Configuração de Aeronaves (ACC) customizado para a Embraer, com foco na experiência do piloto. Essa ferramenta permite aos pilotos verificar de forma rápida e precisa as configurações específicas de cada aeronave antes de cada voo. Através de uma interface intuitiva, os pilotos podem comparar itens, identificar Limitações de Continuação (FOLs) e garantir que a aeronave esteja em perfeitas condições de voo, contribuindo diretamente para a segurança e eficiência das operações.
 
-#### Tecnologias utilizadas
+<!-- #### Tecnologias utilizadas
 
 - [Vite](https://vitejs.dev/guide/) + [Vue 3](https://vuejs.org/guide/quick-start)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -150,9 +176,21 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 - [Apache Maven](https://maven.apache.org/)
 - [Hibernate](https://hibernate.org/)
 - [Lombok](https://projectlombok.org/)
-- [Oracle Cloud](https://www.oracle.com/br/cloud/)
+- [Oracle Cloud](https://www.oracle.com/br/cloud/) -->
+
+#### Hard skills
+
+- [Vite](https://vitejs.dev/guide/), [Vue 3](https://vuejs.org/guide/quick-start), [TypeScript](https://www.typescriptlang.org/), [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/), [CSS3](http://www.w3.org/TR/css3-roadmap/), [Pinia](https://pinia.vuejs.org/), [Axios](https://axios-http.com/), [JSON](https://www.json.org/), [Java](https://www.java.com/pt-BR/), [Spring](https://spring.io/), [Spring Boot](https://spring.io/projects/spring-boot), [Apache Maven](https://maven.apache.org/), [Hibernate](https://hibernate.org/), [Lombok](https://projectlombok.org/), [Oracle Cloud](https://www.oracle.com/br/cloud/).
+
+#### Soft skills
+
+- Liderança, trabalho em equipe, organização, proatividade.
 
 #### Contribuições Pessoais
+
+- Como *Scrum Master*, liderei uma equipe de desenvolvedores na criação do sistema ACC. Utilizei minhas habilidades em Vue.js e TypeScript para desenvolver a interface do usuário, garantindo uma experiência intuitiva para os pilotos. Além disso, fui responsável pela gestão técnica do projeto, incluindo o planejamento, a organização das tarefas e a resolução de problemas.
+
+<!-- #### Contribuições Pessoais
 
 - Criação de projeto Vue, utilizando o Vite.
 - Criação de páginas e componentes Vue.
@@ -160,7 +198,7 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 - Autenticação com token.
 - Gerenciamento de estado.
 - Desenvolvimento do front end como um todo.
-- Atuação como Scrum Master.
+- Atuação como Scrum Master. -->
 
 ---
 ### 5. HEXtaurant - Plataforma online para gerenciamento de operações de restaurante
@@ -179,18 +217,30 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
   - Relatórios detalhados para análise de desempenho.
   - Módulos de gestão de funcionários, fornecedores e estoque.
 
-#### Tecnologias Utilizadas
+<!-- #### Tecnologias Utilizadas
 
 - [Vite](https://vitejs.dev/guide/) + [Vue 3](https://vuejs.org/guide/quick-start)
 - [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/) e [CSS3](http://www.w3.org/TR/css3-roadmap/)
 - [Java](https://www.java.com/pt-BR/)
 - [Oracle Cloud](https://www.oracle.com/br/cloud/)
 - [MySQL](https://www.mysql.com/)
-- [Microsoft Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
+- [Microsoft Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi) -->
 
-#### Contribuições Pessoais
+<!-- #### Contribuições Pessoais
 
 - Criação de projeto Vue, utilizando o Vite.
 - Criação de páginas e componentes Vue.
 - Utilização do Vue Router para controle de URI.
-- Atuação como Product Owner.
+- Atuação como Product Owner. -->
+
+#### Hard Skills 
+
+- [Vue.js](https://vuejs.org/guide/quick-start), [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/), [CSS3](http://www.w3.org/TR/css3-roadmap/), [Java](https://www.java.com/pt-BR/), [Node.js](https://nodejs.org/pt), [Oracle Cloud](https://www.oracle.com/br/cloud/), [MySQL](https://www.mysql.com/), [Microsoft Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi).
+
+#### Soft Skills
+
+- Trabalho em equipe, liderança, comunicação, resolução de problemas.
+
+#### Contribuições Pessoais
+
+- Desenvolvi a interface do usuário do HEXtaurant utilizando Vue.js e JavaScript, criando uma aplicação responsiva e intuitiva para gestores de restaurantes. Como *Product Owner*, fui responsável por definir o escopo do projeto, priorizar as funcionalidades e garantir a satisfação do cliente. Durante o desenvolvimento, trabalhei em equipe com outros desenvolvedores, utilizando minhas habilidades de comunicação para garantir que todos estivessem alinhados com os objetivos do projeto.
