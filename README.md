@@ -248,6 +248,8 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 ---
 ### 6. HexAnalytics - Análise de sentimentos e insights estratégicos
 
+![image](https://github.com/GroupHextech/HEXTECH-API6sem/raw/main/docs/images/Sprint4.gif)
+
 #### Parceiro Acadêmico
 
 - Imagem | Esri Official Distributor - Empresa referência em soluções de geoprocessamento e análise espacial, distribuidora oficial da Esri no Brasil, oferecendo tecnologias avançadas para transformar dados em informações valiosas.
