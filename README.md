@@ -244,3 +244,49 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 #### Contribuições Pessoais
 
 - Desenvolvi a interface do usuário do HEXtaurant utilizando Vue.js e JavaScript, criando uma aplicação responsiva e intuitiva para gestores de restaurantes. Como *Product Owner*, fui responsável por definir o escopo do projeto, priorizar as funcionalidades e garantir a satisfação do cliente. Durante o desenvolvimento, trabalhei em equipe com outros desenvolvedores, utilizando minhas habilidades de comunicação para garantir que todos estivessem alinhados com os objetivos do projeto.
+
+---
+### 6. HexAnalytics - Análise de sentimentos e insights estratégicos
+
+#### Parceiro Acadêmico
+
+- Imagem | Esri Official Distributor - Empresa referência em soluções de geoprocessamento e análise espacial, distribuidora oficial da Esri no Brasil, oferecendo tecnologias avançadas para transformar dados em informações valiosas.
+
+#### Problema e Solução
+
+- Problema: Em um mercado cada vez mais competitivo, entender as nuances das expectativas e frustrações dos clientes é essencial. Comentários online representam uma fonte rica de informações, mas sua análise manual pode ser demorada e imprecisa. Empresas precisam de ferramentas que transformem esses dados em insights acionáveis de maneira rápida e eficiente.
+
+- Solução: O HexAnalytics é uma plataforma inovadora que utiliza inteligência artificial para realizar análises profundas de comentários, classificando-os como positivos, neutros ou negativos. A solução integra os resultados no banco de dados e apresenta insights valiosos por meio de dashboards gráficos intuitivos, permitindo tomadas de decisão estratégicas para melhorar a experiência do cliente.
+
+#### Tecnologias Utilizadas
+
+- Front-end: React, implementação de autenticação de dois fatores utilizando Google Authenticator.
+
+- Back-end: Python, MongoDB, Jupyter Notebook.
+
+- Outras tecnologias: LGPD (Lei Geral de Proteção de Dados) aplicada por meio de funcionalidades como Termos de Uso, opções de deletar conta, visualizar dados armazenados e organizar consentimentos.
+
+#### Hard Skills
+
+- Desenvolvimento front-end com React.
+- Implementação de autenticação de dois fatores.
+- Design de interfaces responsivas e criação de dashboards.
+- Conhecimento em LGPD e sua aplicação prática.
+Integração de back-end com MongoDB e Python.
+
+#### Soft Skills
+
+- Trabalho em equipe, atenção aos detalhes, organização, colaboração interdisciplinar.
+
+#### Contribuições Pessoais
+
+- Front-end: Desenvolvi o front-end do projeto utilizando React, garantindo uma interface amigável e responsiva.
+
+- Autenticação: Implementei autenticação em dois fatores com Google Authenticator, aumentando a segurança dos usuários.
+
+- Dashboards: Modelei e implementei o layout dos dashboards, otimizando a visualização de dados e insights.
+Filtros: Colaborei na organização e desenvolvimento de filtros para melhor segmentação dos dados analisados.
+
+- LGPD: Contribuí na implementação de funcionalidades relacionadas à LGPD, como exibição de Termos de Uso, opção de exclusão de contas e visualização de dados armazenados.
+
+> Com essas contribuições, o HexAnalytics tornou-se uma plataforma robusta, eficiente e em conformidade com regulamentações.
