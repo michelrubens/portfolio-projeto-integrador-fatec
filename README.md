@@ -35,7 +35,7 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 
 ### 1. Vandroid - Aplicativo de vans escolares
 
-[Repositório](https://gitlab.com/projeto-integrador-bd/projeto-integrador)
+<!-- [Repositório](https://gitlab.com/projeto-integrador-bd/projeto-integrador) -->
 
 ![image](https://github.com/michelrubens/portfolio-projeto-integrador-fatec/assets/61568495/20b8eb0c-c429-428c-99be-e46d6703cc41)
 
@@ -57,28 +57,33 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
   - Gerenciamento de horários e rotas: Criação e gerenciamento de horários e rotas de forma simples e intuitiva.
   - Acompanhamento em tempo real: Localização das vans e previsão de chegada em cada parada.
 
-#### Tecnologias utilizadas
+#### Tecnologias Utilizadas
 
 - [MIT App Inventor 2](https://appinventor.mit.edu/)
 - [Firebase](https://firebase.google.com/?hl=pt)
 - [Planilhas Google](https://docs.google.com/spreadsheets/create?hl=pt-br)
 - [C#](https://dotnet.microsoft.com/pt-br/languages/csharp)
 
-#### Hard skills
+#### Hard Skills
 
 - Front-end:
-  - Desenvolvimento de interfaces intuitivas com [MIT App Inventor 2](https://appinventor.mit.edu/).
+  - Utilização do [Figma](https://www.figma.com/) para criação de protótipos e wireframes das telas.
+  - Implementação das telas e funcionalidades no [MIT App Inventor 2](https://appinventor.mit.edu/), reproduzindo os modelos criados no Figma.
   - Design focado na usabilidade para motoristas e passageiros.
 
 - Back-end:
-  - Integração com [Firebase](https://firebase.google.com/?hl=pt) para armazenamento de dados em tempo real.
+  - Integração com [Firebase](https://firebase.google.com/?hl=pt) para persistência de dados.
+  - Uso de [Planilhas Google](https://docs.google.com/spreadsheets/create?hl=pt-br) para suporte e armazenamento adicional.
   - Configuração de autenticação para usuários do aplicativo.
 
-#### Soft skills
+- Controle de Versão:
+  - Introdução ao [GitLab](https://about.gitlab.com/) para versionamento do código e organização do trabalho em equipe.
+
+#### Soft Skills
 
 - **Resolução de problemas**: Desenvolvimento de uma solução para atrasos e comunicação ineficaz no transporte escolar.
-- **Criatividade**: Criação de interfaces simples que resolveram desafios complexos de usabilidade.
-- **Atenção aos detalhes**: Garantia de experiência fluida e consistente para os usuários.
+- **Criatividade**: Elaboração de um design intuitivo e atraente utilizando o Figma.
+- **Atenção aos detalhes**: Foco na precisão ao reproduzir as telas no App Inventor e ajustar as funcionalidades para atender às necessidades dos usuários.
 
 ![image](https://github.com/user-attachments/assets/06915892-616c-458d-89f4-83c417404191)
 
@@ -162,7 +167,7 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 
 - **Trabalho em equipe**: Colaboração com desenvolvedores para garantir a integração perfeita entre front-end e back-end.
 - **Adaptabilidade**: Enfrentamento de desafios técnicos relacionados a diferentes fontes de dados meteorológicos.
-- **Comunicação eficaz**: Garantia de alinhamento entre as necessidades dos usuários e as funcionalidades do sistema.
+- **Comunicação eficaz**: Garantia de alinhamento entre as necessidades do cliente e as funcionalidades do sistema.
 
 ---
 ### 4. Aircraft Configuration Control (ACC)
@@ -184,7 +189,7 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 - [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/) e [CSS3](http://www.w3.org/TR/css3-roadmap/)
 - [Pinia](https://pinia.vuejs.org/), [Axios](https://axios-http.com/) e [JSON](https://www.json.org/)
 - [Java](https://www.java.com/pt-BR/)
-- [Spring](https://spring.io/), [Springboot](https://spring.io/projects/spring-boot)
+- [Spring](https://spring.io/), [Spring Boot](https://spring.io/projects/spring-boot)
 - [Apache Maven](https://maven.apache.org/)
 - [Hibernate](https://hibernate.org/)
 - [Lombok](https://projectlombok.org/)
@@ -194,10 +199,11 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 
 - Front-end:
   - Desenvolvimento da interface do usuário com [Vue 3](https://vuejs.org/guide/quick-start), [TypeScript](https://www.typescriptlang.org/), [Pinia](https://pinia.vuejs.org/), e [Axios](https://axios-http.com/).
+  - Criação de componentes responsivos e intuitivos para facilitar o acesso às informações pelas equipes de pilotos.
 
 - Back-end:
-  - Desenvolvimento de serviços RESTful com [Java](https://www.java.com/pt-BR/) ([Spring Boot](https://spring.io/projects/spring-boot)).
-  - Armazenamento e consulta de dados em [Oracle Cloud](https://www.oracle.com/br/cloud/).
+  - Contribuição no desenvolvimento do sistema de **autenticação**, incluindo níveis de permissão para diferentes perfis de usuários.
+  - Integração com APIs e banco de dados utilizando [Spring Boot](https://spring.io/projects/spring-boot), [Hibernate](https://hibernate.org/), e [Oracle Cloud](https://www.oracle.com/br/cloud/).
 
 #### Soft skills
 
@@ -238,8 +244,8 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
   - Criação de dashboards e relatórios interativos.
 
 - Back-end:
-  - Desenvolvimento de APIs REST com Node.js.
-  - Integração com [MySQL](https://www.mysql.com/) para persistência de dados.
+  - Contribuição na integração de APIs REST para comunicação entre o front-end e o banco de dados.
+  - Participação no desenvolvimento de rotas e endpoints simples com [Node.js](https://nodejs.org/pt) para operações básicas do sistema.
 
 - DevOps:
   - Branch Versioning: Organização do código utilizando estratégias de versionamento baseadas em branches.
@@ -282,8 +288,10 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
   - Implementação de autenticação de dois fatores com [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=pt_BR&pli=1).
 
 - Back-end:
-  - Processamento e análise de dados com [Python](https://www.python.org/) e [Jupyter Notebook](https://jupyter.org/).
-  - Armazenamento de dados em [MongoDB](https://www.mongodb.com/pt-br), utilizando conceitos de banco **NoSQL**.
+  - Participação no desenvolvimento de scripts de **Machine Learning** utilizando [Jupyter Notebook](https://jupyter.org/) para análise de sentimentos e categorização de comentários.
+  - Criação de pipelines de consulta no [MongoDB](https://www.mongodb.com/pt-br), integrados ao código em [Python](https://www.python.org/), otimizando as consultas interativas para os filtros do front-end.
+  - Colaboração na integração do back-end com o front-end, garantindo a consistência e a eficácia das funcionalidades.
+  - Aplicação de boas práticas para manipulação de dados não estruturados em um ambiente de banco de dados **NoSQL**.
 
 - Segurança e LGPD:
   - Implementação de funcionalidades como exclusão de conta, termos de uso e transparência de dados armazenados.
@@ -291,7 +299,7 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 #### Soft Skills
 
 - **Atenção aos detalhes**: Desenvolvimento de filtros avançados para segmentação de dados em dashboards.
-- **Colaboração interdisciplinar**: Trabalho com equipes de design, back-end e machine learning.
+- **Colaboração interdisciplinar**: Trabalho conjunto com equipes de front-end e ciência de dados para alinhar as necessidades do sistema de machine learning e visualização de dados.
 - **Organização**: Estruturação do sistema para estar em conformidade com a [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm).
 
 #### Contribuições Pessoais
