@@ -36,3 +36,6 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 
 ---
 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=1)](https://linkedin.com/in/michelrubens)
+[![GitHub](https://skillicons.dev/icons?i=github&perline=1)](https://github.com/michelrubens)
+[![Gmail](https://skillicons.dev/icons?i=gmail&perline=1)](mailto:michelrube+fromgithub@gmail.com)
