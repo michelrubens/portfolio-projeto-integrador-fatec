@@ -11,12 +11,13 @@ Trabalho de Graduação modelo Portfólio das Aprendizagens por Projetos Integra
   - [3. Sistema web para armazenamento de dados metereológicos](#3-sistema-web-para-armazenamento-de-dados-metereológicos)
   - [4. Aircraft Configuration Control (ACC)](#4-aircraft-configuration-control-acc)
   - [5. HEXtaurant - Plataforma online para gerenciamento de operações de restaurante](#5-hextaurant---plataforma-online-para-gerenciamento-de-operações-de-restaurante)
+  - [6. HexAnalytics - Análise de sentimentos e insights estratégicos](#6-hexanalytics---análise-de-sentimentos-e-insights-estratégicos)
 
 ## Sobre mim
 
 ![Michel Rubens Ferreira da Silva](https://avatars.githubusercontent.com/u/61568495?v=4)
 
-Olá! Sou Michel Rubens Ferreira da Silva, um estudante entusiasmado de Banco de Dados na FATEC São José dos Campos. Estou atualmente cursando o 6º semestre e minha jornada acadêmica tem sido uma oportunidade incrível para imersão em projetos desafiadores e colaborativos.
+Olá! Sou Michel Rubens Ferreira da Silva, estudante de Banco de Dados na FATEC São José dos Campos. Estou atualmente cursando o 6º semestre e minha jornada acadêmica tem sido uma oportunidade incrível para imersão em projetos desafiadores e colaborativos.
 
 Durante minha trajetória na FATEC, tive a chance de participar ativamente de diversos projetos integradores em parceria com empresas renomadas. Essas experiências me proporcionaram valioso contato com clientes reais e me desafiaram a resolver problemas enfrentados por empresas de diferentes segmentos.
 
@@ -56,25 +57,29 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
   - Gerenciamento de horários e rotas: Criação e gerenciamento de horários e rotas de forma simples e intuitiva.
   - Acompanhamento em tempo real: Localização das vans e previsão de chegada em cada parada.
 
-<!-- #### Tecnologias utilizadas
+#### Tecnologias utilizadas
 
 - [MIT App Inventor 2](https://appinventor.mit.edu/)
 - [Firebase](https://firebase.google.com/?hl=pt)
 - [Planilhas Google](https://docs.google.com/spreadsheets/create?hl=pt-br)
-- [C#](https://dotnet.microsoft.com/pt-br/languages/csharp) -->
+- [C#](https://dotnet.microsoft.com/pt-br/languages/csharp)
 
 #### Hard skills
 
-- [MIT App Inventor 2](https://appinventor.mit.edu/), [Firebase](https://firebase.google.com/?hl=pt), [Planilhas Google](https://docs.google.com/spreadsheets/create?hl=pt-br), [C#](https://dotnet.microsoft.com/pt-br/languages/csharp).
+- Front-end:
+  - Desenvolvimento de interfaces intuitivas com [MIT App Inventor 2](https://appinventor.mit.edu/).
+  - Design focado na usabilidade para motoristas e passageiros.
+
+- Back-end:
+  - Integração com [Firebase](https://firebase.google.com/?hl=pt) para armazenamento de dados em tempo real.
+  - Configuração de autenticação para usuários do aplicativo.
 
 #### Soft skills
 
-- Resolução de problemas, criatividade, atenção aos detalhes.
+- **Resolução de problemas**: Desenvolvimento de uma solução para atrasos e comunicação ineficaz no transporte escolar.
+- **Criatividade**: Criação de interfaces simples que resolveram desafios complexos de usabilidade.
+- **Atenção aos detalhes**: Garantia de experiência fluida e consistente para os usuários.
 
-#### Contribuições Pessoais
-
-- Desenvolvi as telas e a documentação do aplicativo Vandroid, utilizando o MIT App Inventor 2. Minha atenção aos detalhes garantiu que a interface do usuário fosse intuitiva e fácil de usar, facilitando a vida dos motoristas e dos alunos.
-  
 ![image](https://github.com/user-attachments/assets/06915892-616c-458d-89f4-83c417404191)
 
 ---
@@ -97,22 +102,25 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
   - **Facilitar a visualização**: Proporcionar ferramentas para a visualização espacial dos dados, permitindo a identificação de padrões e tendências.
   - **Agilizar a análise**: Oferecer funcionalidades para a realização de consultas e análises espaciais, otimizando os processos de tomada de decisão.
 
-<!-- #### Tecnologias utilizadas
+#### Tecnologias utilizadas
 
 - [C#](https://dotnet.microsoft.com/pt-br/languages/csharp)
-- [Microsoft SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) -->
+- [Microsoft SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
 #### Hard skills
 
-- [C#](https://dotnet.microsoft.com/pt-br/languages/csharp), [Microsoft SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads).
+- Front-end:
+  - Criação de telas interativas para carga e visualização de dados com [C#](https://dotnet.microsoft.com/pt-br/languages/csharp).
+
+- Back-end:
+  - Modelagem de banco de dados geoespacial em [Microsoft SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads).
+  - Desenvolvimento de consultas SQL avançadas para análise de dados espaciais.
 
 #### Soft skills
 
-- Análise de dados, organização, atenção aos detalhes.
-
-#### Contribuições Pessoais
- 
-- Fui responsável pela criação das telas e da documentação do sistema de integração do CAR.
+  - **Organização**: Estruturação do sistema para atender diferentes formatos e padrões de dados geoespaciais.
+  - **Análise de dados**: Padronização dos dados para facilitar análises inter-regionais.
+  - **Atenção aos detalhes**: Validação da integridade dos dados geográficos durante o processo de integração.
 
 ---
 ### 3. Sistema web para armazenamento de dados metereológicos
@@ -131,26 +139,30 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
   - **Visualização personalizada**: Criação de dashboards e relatórios customizados para atender às necessidades específicas de cada usuário.
   - **Facilidade de acesso**: Disponibilização dos dados de forma rápida e intuitiva através de uma interface web, eliminando a necessidade de consultas manuais.
 
-<!-- #### Tecnologias utilizadas
+#### Tecnologias utilizadas
 
 - [PostgreSQL](https://www.postgresql.org/)
 - [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/) e [CSS3](http://www.w3.org/TR/css3-roadmap/)
 - [Java](https://www.java.com/pt-BR/)
 - [Spring](https://spring.io/), [Springboot](https://spring.io/projects/spring-boot)
 - [Hibernate](https://hibernate.org/)
-- [Apache Tomcat](https://tomcat.apache.org/) -->
+- [Apache Tomcat](https://tomcat.apache.org/)
 
 #### Hard skills
 
-- [PostgreSQL](https://www.postgresql.org/), [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/), [CSS3](http://www.w3.org/TR/css3-roadmap/), [Java](https://www.java.com/pt-BR/), [Spring](https://spring.io/), [Spring Boot](https://spring.io/projects/spring-boot), [Hibernate](https://hibernate.org/), [Apache Tomcat](https://tomcat.apache.org/).
+- Front-end:
+  - Desenvolvimento de interfaces responsivas usando [HTML5](https://html.spec.whatwg.org/), [CSS3](http://www.w3.org/TR/css3-roadmap/), e [JavaScript](https://www.javascript.com/).
+  - Criação de dashboards interativos para visualização de dados.
+
+- Back-end:
+  - Integração com APIs do INMET usando [Java](https://www.java.com/pt-BR/) ([Spring Boot](https://spring.io/projects/spring-boot)).
+  - Persistência e modelagem de dados meteorológicos em [PostgreSQL](https://www.postgresql.org/).
 
 #### Soft skills
 
-- Desenvolvimento full-stack, trabalho em equipe, adaptabilidade.
-
-#### Contribuições Pessoais 
-
-- Desenvolvi o front-end do sistema, utilizando HTML5, JavaScript e CSS3 para criar uma interface intuitiva e responsiva. Além disso, fui responsável pela integração com a API do INMET e pela criação de gráficos personalizados para a visualização dos dados.
+- **Trabalho em equipe**: Colaboração com desenvolvedores para garantir a integração perfeita entre front-end e back-end.
+- **Adaptabilidade**: Enfrentamento de desafios técnicos relacionados a diferentes fontes de dados meteorológicos.
+- **Comunicação eficaz**: Garantia de alinhamento entre as necessidades dos usuários e as funcionalidades do sistema.
 
 ---
 ### 4. Aircraft Configuration Control (ACC)
@@ -165,7 +177,7 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 
 - A complexidade na gestão das configurações de aeronaves representa um desafio significativo para a indústria aeronáutica. A Embraer, líder mundial em aviação, buscava uma solução para otimizar esse processo. Desenvolvemos então um Sistema de Controle de Configuração de Aeronaves (ACC) customizado para a Embraer, com foco na experiência do piloto. Essa ferramenta permite aos pilotos verificar de forma rápida e precisa as configurações específicas de cada aeronave antes de cada voo. Através de uma interface intuitiva, os pilotos podem comparar itens, identificar Limitações de Continuação (FOLs) e garantir que a aeronave esteja em perfeitas condições de voo, contribuindo diretamente para a segurança e eficiência das operações.
 
-<!-- #### Tecnologias utilizadas
+#### Tecnologias utilizadas
 
 - [Vite](https://vitejs.dev/guide/) + [Vue 3](https://vuejs.org/guide/quick-start)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -176,29 +188,22 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 - [Apache Maven](https://maven.apache.org/)
 - [Hibernate](https://hibernate.org/)
 - [Lombok](https://projectlombok.org/)
-- [Oracle Cloud](https://www.oracle.com/br/cloud/) -->
+- [Oracle Cloud](https://www.oracle.com/br/cloud/)
 
 #### Hard skills
 
-- [Vite](https://vitejs.dev/guide/), [Vue 3](https://vuejs.org/guide/quick-start), [TypeScript](https://www.typescriptlang.org/), [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/), [CSS3](http://www.w3.org/TR/css3-roadmap/), [Pinia](https://pinia.vuejs.org/), [Axios](https://axios-http.com/), [JSON](https://www.json.org/), [Java](https://www.java.com/pt-BR/), [Spring](https://spring.io/), [Spring Boot](https://spring.io/projects/spring-boot), [Apache Maven](https://maven.apache.org/), [Hibernate](https://hibernate.org/), [Lombok](https://projectlombok.org/), [Oracle Cloud](https://www.oracle.com/br/cloud/).
+- Front-end:
+  - Desenvolvimento da interface do usuário com [Vue 3](https://vuejs.org/guide/quick-start), [TypeScript](https://www.typescriptlang.org/), [Pinia](https://pinia.vuejs.org/), e [Axios](https://axios-http.com/).
+
+- Back-end:
+  - Desenvolvimento de serviços RESTful com [Java](https://www.java.com/pt-BR/) ([Spring Boot](https://spring.io/projects/spring-boot)).
+  - Armazenamento e consulta de dados em [Oracle Cloud](https://www.oracle.com/br/cloud/).
 
 #### Soft skills
 
-- Liderança, trabalho em equipe, organização, proatividade.
-
-#### Contribuições Pessoais
-
-- Como *Scrum Master*, liderei uma equipe de desenvolvedores na criação do sistema ACC. Utilizei minhas habilidades em Vue.js e TypeScript para desenvolver a interface do usuário, garantindo uma experiência intuitiva para os pilotos. Além disso, fui responsável pela gestão técnica do projeto, incluindo o planejamento, a organização das tarefas e a resolução de problemas.
-
-<!-- #### Contribuições Pessoais
-
-- Criação de projeto Vue, utilizando o Vite.
-- Criação de páginas e componentes Vue.
-- Utilização do Vue Router para controle de URI.
-- Autenticação com token.
-- Gerenciamento de estado.
-- Desenvolvimento do front end como um todo.
-- Atuação como Scrum Master. -->
+- **Liderança**: Atuação como **Scrum Master**, organizando sprints e garantindo a entrega de valor.
+- **Proatividade**: Antecipação de riscos e problemas durante o desenvolvimento, garantindo entregas no prazo.
+- **Trabalho em equipe**: Coordenação de uma equipe diversificada, alinhando objetivos e superando desafios técnicos.
 
 ---
 ### 5. HEXtaurant - Plataforma online para gerenciamento de operações de restaurante
@@ -217,35 +222,37 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
   - Relatórios detalhados para análise de desempenho.
   - Módulos de gestão de funcionários, fornecedores e estoque.
 
-<!-- #### Tecnologias Utilizadas
+#### Tecnologias Utilizadas
 
 - [Vite](https://vitejs.dev/guide/) + [Vue 3](https://vuejs.org/guide/quick-start)
 - [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/) e [CSS3](http://www.w3.org/TR/css3-roadmap/)
 - [Java](https://www.java.com/pt-BR/)
 - [Oracle Cloud](https://www.oracle.com/br/cloud/)
 - [MySQL](https://www.mysql.com/)
-- [Microsoft Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi) -->
-
-<!-- #### Contribuições Pessoais
-
-- Criação de projeto Vue, utilizando o Vite.
-- Criação de páginas e componentes Vue.
-- Utilização do Vue Router para controle de URI.
-- Atuação como Product Owner. -->
+- [Microsoft Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
 
 #### Hard Skills 
 
-- [Vue.js](https://vuejs.org/guide/quick-start), [HTML5](https://html.spec.whatwg.org/), [JavaScript](https://www.javascript.com/), [CSS3](http://www.w3.org/TR/css3-roadmap/), [Java](https://www.java.com/pt-BR/), [Node.js](https://nodejs.org/pt), [Oracle Cloud](https://www.oracle.com/br/cloud/), [MySQL](https://www.mysql.com/), [Microsoft Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi).
+- Front-end:
+  - Desenvolvimento da interface do usuário com [Vue.js](https://vuejs.org/guide/quick-start), [HTML5](https://html.spec.whatwg.org/), e [CSS3](http://www.w3.org/TR/css3-roadmap/).
+  - Criação de dashboards e relatórios interativos.
+
+- Back-end:
+  - Desenvolvimento de APIs REST com Node.js.
+  - Integração com [MySQL](https://www.mysql.com/) para persistência de dados.
+
+- DevOps:
+  - Branch Versioning: Organização do código utilizando estratégias de versionamento baseadas em branches.
+  - Quality Assurance (QA): Realização de testes manuais e automatizados para garantir a qualidade do código.
+  - Deploy: Automatização e gerenciamento de deploys (com GitHub Pages).
+  - Continuous Integration (CI): Configuração de pipelines de integração contínua para validação de builds e testes.
 
 #### Soft Skills
 
-- Trabalho em equipe, liderança, comunicação, resolução de problemas.
+- **Liderança**: Como **Product Owner**, priorização de funcionalidades e alinhamento do escopo às expectativas do cliente.
+- **Resolução de problemas**: Identificação e solução de gargalos operacionais no setor de restaurantes.
+- **Comunicação**: Facilitação da troca de ideias entre desenvolvedores e stakeholders, garantindo clareza no projeto.
 
-#### Contribuições Pessoais
-
-- Desenvolvi a interface do usuário do HEXtaurant utilizando Vue.js e JavaScript, criando uma aplicação responsiva e intuitiva para gestores de restaurantes. Como *Product Owner*, fui responsável por definir o escopo do projeto, priorizar as funcionalidades e garantir a satisfação do cliente. Durante o desenvolvimento, trabalhei em equipe com outros desenvolvedores, utilizando minhas habilidades de comunicação para garantir que todos estivessem alinhados com os objetivos do projeto.
-
----
 ### 6. HexAnalytics - Análise de sentimentos e insights estratégicos
 
 ![image](https://github.com/GroupHextech/HEXTECH-API6sem/raw/main/docs/images/Sprint4.gif)
@@ -262,23 +269,30 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 
 #### Tecnologias Utilizadas
 
-- Front-end: React, implementação de autenticação de dois fatores utilizando Google Authenticator.
+- Front-end: [React](https://react.dev/), implementação de autenticação de dois fatores utilizando [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=pt_BR&pli=1).
 
-- Back-end: Python, MongoDB, Jupyter Notebook.
+- Back-end: [Python](https://www.python.org/), [MongoDB](https://www.mongodb.com/pt-br), [Jupyter Notebook](https://jupyter.org/).
 
-- Outras tecnologias: LGPD (Lei Geral de Proteção de Dados) aplicada por meio de funcionalidades como Termos de Uso, opções de deletar conta, visualizar dados armazenados e organizar consentimentos.
+- Outras tecnologias: [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) (Lei Geral de Proteção de Dados) aplicada por meio de funcionalidades como Termos de Uso, opções de deletar conta, visualizar dados armazenados e organizar consentimentos.
 
 #### Hard Skills
 
-- Desenvolvimento front-end com React.
-- Implementação de autenticação de dois fatores.
-- Design de interfaces responsivas e criação de dashboards.
-- Conhecimento em LGPD e sua aplicação prática.
-Integração de back-end com MongoDB e Python.
+- Front-end:
+  - Desenvolvimento de interfaces responsivas e dashboards interativos com [React](https://react.dev/).
+  - Implementação de autenticação de dois fatores com [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=pt_BR&pli=1).
+
+- Back-end:
+  - Processamento e análise de dados com [Python](https://www.python.org/) e [Jupyter Notebook](https://jupyter.org/).
+  - Armazenamento de dados em [MongoDB](https://www.mongodb.com/pt-br), utilizando conceitos de banco **NoSQL**.
+
+- Segurança e LGPD:
+  - Implementação de funcionalidades como exclusão de conta, termos de uso e transparência de dados armazenados.
 
 #### Soft Skills
 
-- Trabalho em equipe, atenção aos detalhes, organização, colaboração interdisciplinar.
+- **Atenção aos detalhes**: Desenvolvimento de filtros avançados para segmentação de dados em dashboards.
+- **Colaboração interdisciplinar**: Trabalho com equipes de design, back-end e machine learning.
+- **Organização**: Estruturação do sistema para estar em conformidade com a [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm).
 
 #### Contribuições Pessoais
 
@@ -287,7 +301,8 @@ Integração de back-end com MongoDB e Python.
 - Autenticação: Implementei autenticação em dois fatores com Google Authenticator, aumentando a segurança dos usuários.
 
 - Dashboards: Modelei e implementei o layout dos dashboards, otimizando a visualização de dados e insights.
-Filtros: Colaborei na organização e desenvolvimento de filtros para melhor segmentação dos dados analisados.
+
+- Filtros: Colaborei na organização e desenvolvimento de filtros para melhor segmentação dos dados analisados.
 
 - LGPD: Contribuí na implementação de funcionalidades relacionadas à LGPD, como exibição de Termos de Uso, opção de exclusão de contas e visualização de dados armazenados.
 
