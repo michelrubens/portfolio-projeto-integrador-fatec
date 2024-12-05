@@ -22,7 +22,7 @@ Estou animado para continuar crescendo academicamente e profissionalmente, enfre
 
 ## Projetos
 
-[**1.** Vandroid - Aplicativo de vans escolares](#/assets/API1.md)
+[**1.** Vandroid - Aplicativo de vans escolares](/assets/API1.md)
 
 **2.** Integra CAR (Cadastro Ambiental Rural) - Carga de shapefile em banco geográfico
 
