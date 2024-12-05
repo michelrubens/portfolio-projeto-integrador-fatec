@@ -16,7 +16,7 @@
 
 - Front-end: [React](https://react.dev/), implementação de autenticação de dois fatores utilizando [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=pt_BR&pli=1).
 
-- Back-end: [Python](https://www.python.org/), [MongoDB](https://www.mongodb.com/pt-br), [Jupyter Notebook](https://jupyter.org/).
+- Back-end: [Python](https://www.python.org/), [MongoDB](https://www.mongodb.com/pt-br), [Firebase](https://firebase.google.com/), [Jupyter Notebook](https://jupyter.org/).
 
 - Outras tecnologias: [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) (Lei Geral de Proteção de Dados) aplicada por meio de funcionalidades como Termos de Uso, opções de deletar conta, visualizar dados armazenados e organizar consentimentos.
 
