@@ -6,19 +6,13 @@ Trabalho de Graduação modelo Portfólio das Aprendizagens por Projetos Integra
 
 ![Michel Rubens Ferreira da Silva](https://avatars.githubusercontent.com/u/61568495?v=4)
 
-Olá! Sou Michel Rubens Ferreira da Silva, estudante de Banco de Dados na FATEC São José dos Campos. Estou atualmente cursando o 6º semestre e minha jornada acadêmica tem sido uma oportunidade incrível para imersão em projetos desafiadores e colaborativos.
+Olá! Sou Michel Rubens Ferreira da Silva, estudante do 6º semestre de Banco de Dados na FATEC São José dos Campos. Durante minha jornada acadêmica, participei de projetos integradores desafiadores em parceria com empresas renomadas, o que me proporcionou contato direto com problemas reais e oportunidades de criar soluções práticas.
 
-Durante minha trajetória na FATEC, tive a chance de participar ativamente de diversos projetos integradores em parceria com empresas renomadas. Essas experiências me proporcionaram valioso contato com clientes reais e me desafiaram a resolver problemas enfrentados por empresas de diferentes segmentos.
+Esses projetos me permitiram desenvolver habilidades técnicas como modelagem de dados, integração de sistemas, desenvolvimento front-end e back-end, além de explorar ferramentas modernas como React, Vue.js, Python, MongoDB, e práticas de DevOps. Paralelamente, aprimorei competências interpessoais, como trabalho em equipe, liderança e uso de metodologias ágeis, essenciais para o mercado de tecnologia.
 
-Além de focar no desenvolvimento das habilidades técnicas específicas do curso, tenho direcionado esforços para aprimorar minhas competências interpessoais. Ao integrar equipes que utilizam Metodologia Ágil, aprendi a importância da colaboração, comunicação eficaz e trabalho em equipe, habilidades fundamentais para um profissional de Banco de Dados e Desenvolvimento de Software.
+Minha experiência profissional inclui estágios e trabalhos em gestão de sistemas de TI e processos operacionais, nos quais atuei com ferramentas como GLPI e elaboração de soluções para otimização de dados e insights gerenciais.
 
-Estou determinado a me tornar um profissional completo e atualizado, acompanhando as demandas do mercado para fornecer soluções eficientes para os desafios empresariais.
-
-Durante meu estágio no Departamento de Tecnologia da Informação (DTI) da Prefeitura de Jacareí, trabalhei com o GLPI, um sistema de gerenciamento de serviços de TI de código aberto. Nessa posição, meu foco foi estudar e tentar atualizar a versão utilizada pelo DTI. O GLPI é utilizado para controlar incidentes, solicitações de serviço e inventário de ativos de TI em organizações.
-
-Já trabalhei como Supervisor de Gestão do SUAS, na Secretaria de Assistência Social, onde meu trabalho estava centrado na gestão do Sistema de Gerenciamento de Cestas Básicas, uma ferramenta essencial para o controle e distribuição desses recursos para a comunidade. Desempenhei também um papel fundamental na elaboração de gráficos e planilhas dinâmicas, que tem o intuito de otimizar processos, organizar informações detalhadas e gerar insights valiosos para aprimorar as atividades e a eficácia das operações no setor de Assistência Social.
-
-Estou animado para continuar crescendo academicamente e profissionalmente, enfrentando novos desafios e contribuindo significativamente para a área de Banco de Dados e Desenvolvimento de Software.
+Estou comprometido em continuar aprendendo e aplicando meus conhecimentos para contribuir com soluções eficientes e inovadoras na área de Banco de Dados e Desenvolvimento de Software.
 
 ## Projetos
 
