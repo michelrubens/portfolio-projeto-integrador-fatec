@@ -33,3 +33,5 @@ Estou comprometido em continuar aprendendo e aplicando meus conhecimentos para c
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=1)](https://linkedin.com/in/michelrubens)
 [![GitHub](https://skillicons.dev/icons?i=github&perline=1)](https://github.com/michelrubens)
 [![Gmail](https://skillicons.dev/icons?i=gmail&perline=1)](mailto:michelrube+fromgithub@gmail.com)
+
+[![Icons](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,vue,react,pinia&perline=4)]()
