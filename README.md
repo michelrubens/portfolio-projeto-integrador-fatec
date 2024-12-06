@@ -6,7 +6,7 @@ Trabalho de Graduação modelo Portfólio das Aprendizagens por Projetos Integra
 
 ![Michel Rubens Ferreira da Silva](https://avatars.githubusercontent.com/u/61568495?v=4)
 
-Olá! Sou Michel Rubens Ferreira da Silva, estudante do 6º semestre de Banco de Dados na FATEC São José dos Campos. Durante minha jornada acadêmica, participei de projetos integradores desafiadores em parceria com empresas renomadas, o que me proporcionou contato direto com problemas reais e oportunidades de criar soluções práticas.
+Olá! Sou Michel Rubens Ferreira da Silva, estudante do 6º semestre de Banco de Dados na FATEC São José dos Campos. Durante minha jornada acadêmica, participei de desafiadores projetos integrados em parceria com empresas renomadas, o que me proporcionou contato direto com problemas reais e oportunidades de criar soluções práticas.
 
 Esses projetos me permitiram desenvolver habilidades técnicas como modelagem de dados, integração de sistemas, desenvolvimento front-end e back-end, além de explorar ferramentas modernas como React, Vue.js, Python, MongoDB, e práticas de DevOps. Paralelamente, aprimorei competências interpessoais, como trabalho em equipe, liderança e uso de metodologias ágeis, essenciais para o mercado de tecnologia.
 
@@ -33,5 +33,3 @@ Estou comprometido em continuar aprendendo e aplicando meus conhecimentos para c
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=1)](https://linkedin.com/in/michelrubens)
 [![GitHub](https://skillicons.dev/icons?i=github&perline=1)](https://github.com/michelrubens)
 [![Gmail](https://skillicons.dev/icons?i=gmail&perline=1)](mailto:michelrube+fromgithub@gmail.com)
-
-[![Icons](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,vue,react,pinia,python,mongodb&perline=5)]()
