@@ -8,7 +8,9 @@
 
 ## Problema e Solução
 
-- Empresas que dependem de dados meteorológicos para suas operações frequentemente enfrentam desafios na gestão e análise dessas informações. A obtenção de dados do INMET, por exemplo, envolve processos manuais e a necessidade de integrar informações de diversas fontes. A falta de uma solução centralizada para armazenamento, visualização e análise desses dados dificulta a tomada de decisões estratégicas e a otimização de processos. Desenvolvemos um sistema web que centraliza e organiza os dados meteorológicos do INMET em um banco de dados corporativo. Essa solução permite:
+- Empresas que dependem de dados meteorológicos para suas operações frequentemente enfrentam desafios na gestão e análise dessas informações. A obtenção de dados do INMET, por exemplo, envolve processos manuais e a necessidade de integrar informações de diversas fontes. A falta de uma solução centralizada para armazenamento, visualização e análise desses dados dificulta a tomada de decisões estratégicas e a otimização de processos.
+  
+- Desenvolvemos um sistema web que centraliza e organiza os dados meteorológicos do INMET em um banco de dados corporativo. Essa solução permite:
 
   - **Consolidação de dados**: Agregação de informações provenientes de diversas fontes, incluindo o INMET, em um único repositório.
   - **Visualização personalizada**: Criação de dashboards e relatórios customizados para atender às necessidades específicas de cada usuário.
