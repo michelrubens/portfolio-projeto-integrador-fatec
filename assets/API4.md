@@ -8,7 +8,9 @@
 
 ## Problema e Solução
 
-- A complexidade na gestão das configurações de aeronaves representa um desafio significativo para a indústria aeronáutica. A Embraer, líder mundial em aviação, buscava uma solução para otimizar esse processo. Desenvolvemos então um Sistema de Controle de Configuração de Aeronaves (ACC) customizado para a Embraer, com foco na experiência do piloto. Essa ferramenta permite aos pilotos verificar de forma rápida e precisa as configurações específicas de cada aeronave antes de cada voo. Através de uma interface intuitiva, os pilotos podem comparar itens, identificar Limitações de Continuação (FOLs) e garantir que a aeronave esteja em perfeitas condições de voo, contribuindo diretamente para a segurança e eficiência das operações.
+- A complexidade na gestão das configurações de aeronaves representa um desafio significativo para a indústria aeronáutica. A Embraer, líder mundial em aviação, buscava uma solução para otimizar esse processo.
+  
+- Desenvolvemos então um Sistema de Controle de Configuração de Aeronaves (ACC) customizado para a Embraer, com foco na experiência do piloto. Essa ferramenta permite aos pilotos verificar de forma rápida e precisa as configurações específicas de cada aeronave antes de cada voo. Através de uma interface intuitiva, os pilotos podem comparar itens, identificar Limitações de Continuação (FOLs) e garantir que a aeronave esteja em perfeitas condições de voo, contribuindo diretamente para a segurança e eficiência das operações.
 
 ## Tecnologias Utilizadas
 
